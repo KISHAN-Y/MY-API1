@@ -154,5 +154,20 @@
         "quantity": 1,
         "authorBio": "Rebecca Yarros is a bestselling author of romantic fantasy and military fiction. Her emotionally rich stories often feature strong heroines, sweeping world-building, and intense relationships.",
         "rating": 4.6
-    }
+    },
+    {
+  "id": 1013,
+  "title": "It's Not Just My Only Love Story",
+  "author": "Bhubanesh Baisakha",
+  "price": 27.89,
+  "originalPrice": 30.99,
+  "description": "It is a story that takes you into the life of a 12 years old young boy called Brijesh who always had certain awkwardness around girls to which he finally overcame when on one fine winter morning he met a girl around his age in the school bus. Soon, their friendship grew which later got converted into a flawed love story. Though they survived the early challenges of romantic relationships that one faces at that young age, but their hearts were still filled with doubts.",
+  "genre": "Romance",
+  "coverImage": "It's Not Just My Only Love Story.jpeg",
+  "coverImageUrl": "https://books.google.co.in/books/publisher/content?id=DOLvDwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3yVIdNb7k3g38A4LMTsz_MXfEDaQ&w=1280",
+  "quantity": 1,
+  "authorBio": "Bhubanesh Baisakha is currently working as an independently practiced professional counselor who comes from a middle class family, living in Cuttack, a small city of the state Odisha, who in spite belonging to the world of mental health has suffered personally from acute depression and anxiety which he overcame by learning to let go of things. He did his schooling from DAV Public School. He did his graduation in Psychology Honors from reputed Ravenshaw University. He completed his masters from prestigious Banaras Hindu University.",
+  "rating": 3.4
+}
+
 ]
