@@ -5,7 +5,7 @@ const cors = require("cors");
 const path = require("path");
 
 const app = express();
-const PORT = 8989;
+const PORT = 3000;
 
 // ✅ Enable CORS for your Flutter Firebase app
 app.use(cors({
